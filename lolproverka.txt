@@ -1,0 +1,12 @@
+asd
+asd
+clear
+exit
+asd
+asd
+exit
+quiit
+quit
+cd ..
+:wq!
+exit
